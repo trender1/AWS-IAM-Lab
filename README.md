@@ -1,1 +1,1 @@
-# AWS-IAM-Project
+# AWS-IAM-Lab
